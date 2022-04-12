@@ -6,6 +6,10 @@ body {
     font-family: 'Smooch Sans', sans-serif;
     background-color: rgb(11, 155, 23);
 }
+.titulo{
+    color: rgba(142, 189, 166, 0.623);
+}
+
 header div h2 {
     background-color: rgb(6, 105, 14);
 }
@@ -86,6 +90,7 @@ header nav ul li {
     align-items: center;
     background-color: rgb(5, 77, 11);
 }
+
 .footer {
     grid-area: footer;
     display: flex;
@@ -136,6 +141,7 @@ header nav ul li {
     }
     .parrafo {
         font-size: 40px;
+
     }
     .imagenes{ 
         width: 150px;
